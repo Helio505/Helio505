@@ -1,10 +1,10 @@
 ### My main projects here:
 
-[API_gerenciador_de_eventos](https://github.com/Helio505/API_gerenciador_de_eventos)
+- [API_gerenciador_de_eventos](https://github.com/Helio505/API_gerenciador_de_eventos)
+- 
+- [Checklist_Web_App](https://github.com/Helio505/ProgrammingProjects/tree/main/Checklist_Web_App)
 
-[Checklist_Web_App](https://github.com/Helio505/ProgrammingProjects/tree/main/Checklist_Web_App)
-
-[Time-tracking-program](https://github.com/Helio505/Time-tracking-program)
+- [Time-tracking-program](https://github.com/Helio505/Time-tracking-program)
 
 
 
